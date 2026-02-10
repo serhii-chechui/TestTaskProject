@@ -1,0 +1,22 @@
+{
+    "name": "com.productmadness.testtaskproject.ui.editor",
+    "rootNamespace": "ProductMadness.TestTaskProject.UI.Editor",
+    "references": [
+        "GUID:6fc8fb81eff714f1fbf6bb406da16f8c",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6546d7765b4165b40850b3667f981c26",
+        "GUID:bc945bbc7aa547e4a2ae4c2941ce01d4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
